@@ -842,6 +842,22 @@ a {
 .cid-scHmHgfsSn img {
   width: 100%;
 }
+.cid-sdOOEvSkIr {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sdOOEvSkIr .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sdOOEvSkIr .row {
+  flex-direction: row-reverse;
+}
+.cid-sdOOEvSkIr img {
+  width: 100%;
+}
 .cid-scEnD31cVp {
   padding-top: 1rem;
   padding-bottom: 0rem;
