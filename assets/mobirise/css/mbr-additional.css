@@ -1003,6 +1003,20 @@ a {
 .cid-scW1dZwQTL img {
   width: 100%;
 }
+.cid-sfkYHdBiVo {
+  background-color: #a4c6ff;
+}
+@media (max-width: 991px) {
+  .cid-sfkYHdBiVo .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sfkYHdBiVo .row {
+  flex-direction: row-reverse;
+}
+.cid-sfkYHdBiVo img {
+  width: 100%;
+}
 .cid-scElMTEZZb {
   padding-top: 0rem;
   padding-bottom: 0rem;
